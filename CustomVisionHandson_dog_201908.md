@@ -23,7 +23,7 @@
 - Azure サブスクリプション
     - ハンズオンの講師から、Azure サブスクリプションを利用できるマイクロソフトアカウントをお受け取りください。
 - ハンズオン用の画像とサンプルコード一式(ZIP)のダウンロードと展開
-    - 以下のリンクをクリックしてダウンロードします。
+    - 以下のリンクを右クリックしてダウンロードします。
     - <a href="handson_files.zip" download="handson_files.zip">handson_files.zip</a> 
     - ダウンロードしたら、右クリックして **[全て展開]** をクリックします。
     - <img src="doc_images/handson_01.png" width="400">
